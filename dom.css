@@ -30,7 +30,7 @@ header > h1 {
   justify-self: center;
   align-self: center;
   text-align: center;
-  font-size: 35px;
+  font-size: 45px;
 }
 .empty {
   height: 4%;
@@ -64,6 +64,8 @@ main {
   width: 15rem;
   margin: 2rem;
   border-radius: 0.5rem;
+  text-align: center;
+  font-size: 45px;
 }
 .btn-check {
   height: 3rem;
